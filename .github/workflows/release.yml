@@ -1,5 +1,5 @@
-- name: release
-  - uses: actions/upload-artifact@v3
+- name: Upload a Build Artifact
+  uses: actions/upload-artifact@v3.0.0
   with:
-    name: latest
-    path: /
+    name: colorshelll
+     - path: 
