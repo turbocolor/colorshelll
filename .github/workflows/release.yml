@@ -1,12 +1,25 @@
- - name: release
-steps:
-- uses: actions/checkout@v2
+name: colorshellljs-node
 
-- run: mkdir -p path/to/artifact
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
-- run: echo hello > path/to/artifact/world.txt
+jobs:
+  build:
 
-- uses: actions/upload-artifact@v3
-  with:
-    name: colorshelll-linux
-    path: dist/colorshelll-c-linux.out
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 15.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: node colorshelll.js
+      
