@@ -1,5 +1,12 @@
-- name: Upload a Build Artifact
-  uses: actions/upload-artifact@v3.0.0
+ - name: release
+steps:
+- uses: actions/checkout@v2
+
+- run: mkdir -p path/to/artifact
+
+- run: echo hello > path/to/artifact/world.txt
+
+- uses: actions/upload-artifact@v3
   with:
-    name: colorshelll
-     - path: 
+    name: colorshelll-linux
+    path: dist/colorshelll-c-linux.out
