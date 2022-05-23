@@ -1,0 +1,25 @@
+{
+  "name": "@turbocolor/colorshelll",
+  "version": "0.0.1",
+  "description": "Show Colors In The Node.js Repl",
+  "main": "colorshelll.js",
+  "scripts": {
+    "test": "node colorshelll.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbocolor/colorshelll.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/turbocolor/colorshelll/issues"
+  },
+  "homepage": "https://github.com/turbocolor/colorshelll#readme",
+  "dependencies": {
+    "pkg": "^5.7.0"
+  }
+}
