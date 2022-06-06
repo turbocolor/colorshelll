@@ -1,0 +1,7 @@
+echo -e "\033[31m ■ Red Foreground"
+echo -e "\033[32m ■ Green Foreground"
+echo -e "\033[33m ■ Yellow Foreground"
+echo -e "\033[34m ■ Blue Foreground"
+echo -e "\033[35m ■ Magenta Foreground"
+echo -e "\033[36m ■ Cyan Foreground"
+echo -e "\033[30m ■ Black Foreground"

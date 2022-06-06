@@ -21,5 +21,9 @@
   "homepage": "https://github.com/turbocolor/colorshelll#readme",
   "dependencies": {
     "pkg": "^5.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.36",
+    "jest": "^28.1.0"
   }
 }
