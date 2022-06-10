@@ -1,6 +1,6 @@
 # colorshelll (Colorsh)
 <div align="center">
-  <img alt="colorshelll-icon" src="https://user-images.githubusercontent.com/95860724/172583896-381d51d6-4bd4-4860-b529-fdf0dcc0fcff.png" width="100" height="100" />
+  <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
 </div>
 
 <div align="center">
