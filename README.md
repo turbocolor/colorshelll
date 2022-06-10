@@ -22,4 +22,32 @@
   </a>
   <a href="https://codeclimate.com/github/turbocolor/colorshelll/maintainability"><img src="https://api.codeclimate.com/v1/badges/313b3ba450aea230cbe4/maintainability" /></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg" alt="License: GPL v3+"></a>
+  <h2>Links</h2>
+  <a href="https://packagephobia.com/result?p=%40turbocolor%2Fcolorshelll">
+    <img src="https://packagephobia.com/favicon.ico" width="25" height="25" />
+  </a>
+  <a href="https://bundlephobia.com/package/@turbocolor/colorshelll@0.0.4">
+    <img src="https://bundlephobia.com/favicon.ico" width="25" height="25" />
+  </a>
+  <a href="https://cdn.jsdelivr.net/npm/@turbocolor/colorshelll/">
+    <img src="https://cdn.jsdelivr.net/favicon.ico" width="25" height="25" />
+  </a>
+  <a href="https://unpkg.com/browse/@turbocolor/colorshelll@0.0.4/">
+    <img src="https://unpkg.com/favicon.ico" width="25" height="25" />
+  </a>
+  <a href="https://www.npmjs.com/package/@turbocolor/colorshelll">
+    <img src="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png" width="25" height="25" />
+  </a>
+  <a href="https://yarn.pm/@turbocolor/colorshelll">
+    <img src="https://yarnpkg.com/favicon.svg?v=775b53071ebde4f6d738805a2d9fcb72" width="25" height="25" />
+  </a> 
+  <a href="https://libraries.io/npm/%40turbocolor%2Fcolorshelll">
+    <img src="https://libraries.io/favicon.ico" width="25" height="25" />
+  </a>
+  <a href="https://npm.anvaka.com/#/view/2d/%2540turbocolor%252Fcolorshelll">
+    <img src="https://user-images.githubusercontent.com/95860724/173061475-cae9cadd-0e6c-4e63-9c64-aef64ed808a9.svg" width="25" height="25" />
+  </a>
+  <a href="https://github.com/turbocolor/colorshelll">
+    <img src="https://user-images.githubusercontent.com/95860724/173062111-7a6b20c9-1217-4b1a-b6f8-32ed62acf23e.svg" width="25" height="25" />
+  </a>
 </div>
