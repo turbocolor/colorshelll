@@ -1,9 +1,15 @@
-# colorshelll (Colorsh)
+# <div align="center">colorshelll (Colorsh)</div>
 <div align="center">
   <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
 </div>
-
+<br />
+<hr />
+<br />
 <div align="center">
+  <a href="https://www.producthunt.com/posts/colorshelll?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-colorshelll" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=349114&theme=light" alt="colorshelll - Display&#0032;colors&#0032;In&#0032;your&#0032;chosen&#0032;CLI&#0032;and&#0032;Language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+  <br />
   <a href="https://gitter.im/colorshelll/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
     <img src="https://badges.gitter.im/colorshelll/community.svg">
   </a>  
