@@ -1,4 +1,4 @@
-name: colorshellljs-node
+name: Node CI
 
 on:
   push:
@@ -8,9 +8,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [16.x]
@@ -21,5 +19,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+      - run: npm audit fix
+      - run: npm ls
+      - run: npm fund
       - run: node colorshelll.js
       
