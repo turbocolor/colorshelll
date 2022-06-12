@@ -7,6 +7,13 @@
     <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=349114&theme=light" alt="colorshelll - Display&#0032;colors&#0032;In&#0032;your&#0032;chosen&#0032;CLI&#0032;and&#0032;Language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
   </a>
   <br />
+  <a href="https://github.com/turbocolor/colorshelll/actions/workflows/nodejs.yml">
+    <img alt="Node CI" src="https://github.com/turbocolor/colorshelll/workflows/Node%20CI/badge.svg" />
+  </a>
+  <a href="https://github.com/turbocolor/colorshelll/actions/workflows/codeql-analysis.yml">
+    <img alt="CodeQL" src="https://github.com/turbocolor/colorshelll/workflows/CodeQL/badge.svg" />
+  </a>
+  <br />
   <a href="https://gitter.im/colorshelll/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
     <img src="https://badges.gitter.im/colorshelll/community.svg">
   </a>  
@@ -17,9 +24,6 @@
     <img src="https://img.shields.io/lgtm/grade/javascript/g/turbocolor/colorshelll.svg?logo=lgtm" alt="LGTM PYTHON">
   </a>
   <br />
-  <a href="https://github.com/turbocolor/colorshelll/actions/workflows/nodejs.yml">
-    <img alt="Node CI" src="https://github.com/turbocolor/colorshelll/workflows/Node%20CI/badge.svg" />
-  </a>
   <a href="https://openbase.com/js/@turbocolor/colorshelll?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge">
     <img alt="Rate this package" src="https://badges.openbase.com/js/rating/@turbocolor/colorshelll.svg?style=openbase" />
   </a>
