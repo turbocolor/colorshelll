@@ -68,8 +68,16 @@
 <code>
 $ npm i --save-dev @turbocolor/colorshelll
 </code>
-<h4><a href="">npm</a></h4>
+<h4><a href="https://yarn.pm/@turbocolor/colorshelll">yarn</a></h4>
 <code>
-$ npm i --save-dev @turbocolor/colorshelll
+$ yarn add --dev @turbocolor/colorshelll
+</code>
+<h4>pnpm</h4>
+<code>
+$ pnpm i --dev @turbocolor/colorshelll
+</code>
+<h4><a href="https://npmmirror.com/package/@turbocolor/colorshelll">cnpm</a></h4>
+<code>
+$ cnpm install @turbocolor/colorshelll
 </code>
 <h3>Executables</h3>
