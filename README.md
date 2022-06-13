@@ -61,3 +61,15 @@
     <img src="https://user-images.githubusercontent.com/95860724/173062111-7a6b20c9-1217-4b1a-b6f8-32ed62acf23e.svg" width="25" height="25" />
   </a>
 </div>
+<br />
+<h2>Install</h2>
+<h3>Terminal</h3>
+<h4><a href="https://www.npmjs.com/package/@turbocolor/colorshelll">npm</a></h4>
+<code>
+$ npm i --save-dev @turbocolor/colorshelll
+</code>
+<h4><a href="">npm</a></h4>
+<code>
+$ npm i --save-dev @turbocolor/colorshelll
+</code>
+<h3>Executables</h3>
