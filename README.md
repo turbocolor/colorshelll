@@ -3,6 +3,10 @@
   <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
 </div>
 <div align="center">
+  <a href="https://results.pre-commit.ci/latest/github/turbocolor/colorshelll/main">
+    <img alt="pre-commit.ci status" src="https://results.pre-commit.ci/badge/github/turbocolor/colorshelll/main.svg" />
+  </a>
+  <br />
   <a href="https://www.producthunt.com/posts/colorshelll?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-colorshelll" target="_blank">
     <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=349114&theme=light" alt="colorshelll - Display&#0032;colors&#0032;In&#0032;your&#0032;chosen&#0032;CLI&#0032;and&#0032;Language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
   </a>
@@ -80,4 +84,3 @@ $ pnpm i --dev @turbocolor/colorshelll
 <code>
 $ cnpm install @turbocolor/colorshelll
 </code>
-<h3>Executables</h3>
