@@ -40,13 +40,13 @@
   <a href="https://packagephobia.com/result?p=%40turbocolor%2Fcolorshelll">
     <img src="https://packagephobia.com/favicon.ico" width="25" height="25" />
   </a>
-  <a href="https://bundlephobia.com/package/@turbocolor/colorshelll@0.0.4">
+  <a href="https://bundlephobia.com/package/@turbocolor/colorshelll@0.0.5">
     <img src="https://bundlephobia.com/favicon.ico" width="25" height="25" />
   </a>
   <a href="https://cdn.jsdelivr.net/npm/@turbocolor/colorshelll/">
     <img src="https://cdn.jsdelivr.net/favicon.ico" width="25" height="25" />
   </a>
-  <a href="https://unpkg.com/browse/@turbocolor/colorshelll@0.0.4/">
+  <a href="https://unpkg.com/browse/@turbocolor/colorshelll@0.0.5/">
     <img src="https://unpkg.com/favicon.ico" width="25" height="25" />
   </a>
   <a href="https://www.npmjs.com/package/@turbocolor/colorshelll">
