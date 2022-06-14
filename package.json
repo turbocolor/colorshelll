@@ -1,10 +1,13 @@
 {
   "name": "@turbocolor/colorshelll",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Show Colors In The Node.js Repl",
   "main": "colorshelll.js",
   "scripts": {
     "test": "node colorshelll.js"
+  },
+  "bin": {
+    "colorshelll-node": "./colorshelll.js"
   },
   "repository": {
     "type": "git",
