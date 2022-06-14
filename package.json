@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/turbocolor/colorshelll#readme",
   "dependencies": {
+    "gradient-string": "^2.0.1",
     "pkg": "^5.7.0"
   },
   "devDependencies": {
