@@ -61,7 +61,7 @@
   <a href="https://npm.anvaka.com/#/view/2d/%2540turbocolor%252Fcolorshelll">
     <img src="https://user-images.githubusercontent.com/95860724/173061475-cae9cadd-0e6c-4e63-9c64-aef64ed808a9.svg" width="25" height="25" />
   </a>
-  <a href="https://github.com/turbocolor/colorshelll">
+  <a href="http://turbocolor.link/colorsh-gh">
     <img src="https://user-images.githubusercontent.com/95860724/173062111-7a6b20c9-1217-4b1a-b6f8-32ed62acf23e.svg" width="25" height="25" />
   </a>
 </div>
