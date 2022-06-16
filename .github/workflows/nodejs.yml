@@ -22,5 +22,5 @@ jobs:
       - run: npm audit fix
       - run: npm ls
       - run: npm fund
-      - run: node colorshelll.js
+      - run: npm test
       
