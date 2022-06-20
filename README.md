@@ -66,6 +66,27 @@
   </a>
 </div>
 <br />
+<h1 id="tableofcontents">Table of contents</h1>
+<ul>
+<li><a href="#colorshelll-colorsh">colorshelll (Colorsh)</a>
+<ul>
+<li><a href="#links">Links</a></li>
+
+<li><a href="#install">Install</a></li>
+<ul>
+<li><a href="#terminal">Terminal</a>
+<ul>
+<li><a href="#npmhttpswwwnpmjscompackageturbocolorcolorshelll"><a href="https://www.npmjs.com/package/@turbocolor/colorshelll">npm</a></a></li>
+<li><a href="#yarnhttpsyarnpmturbocolorcolorshelll"><a href="https://yarn.pm/@turbocolor/colorshelll">yarn</a></a></li>
+<li><a href="#pnpm">pnpm</a></li>
+<li><a href="#cnpmhttpsnpmmirrorcompackageturbocolorcolorshelll"><a href="https://npmmirror.com/package/@turbocolor/colorshelll">cnpm</a></a></li>
+</ul>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<br />
 <h2>Install</h2>
 <h3>Terminal</h3>
 <h4><a href="https://www.npmjs.com/package/@turbocolor/colorshelll">npm</a></h4>
