@@ -66,10 +66,11 @@
   </a>
 </div>
 <br />
-<h1 id="tableofcontents">Table of contents</h1>
+<h2 id="tableofcontents">Table Of Contents</h1>
 <ul>
 <li><a href="#colorshelll-colorsh">colorshelll (Colorsh)</a>
 <ul>
+<li><a href="#table-of-contents">Table of Contents</a>
 <li><a href="#links">Links</a></li>
 
 <li><a href="#install">Install</a></li>
@@ -83,6 +84,12 @@
 </ul>
 </ul>
 </li>
+<li><a href="#source-code">Source Code</a></li>
+<ul>
+<li><a href="#git">Git</a></li>
+<li><a href="#github-cli">Github CLI</a></li> 
+</ul>
+<li><a href="#usage">Usage</a></li>
 </ul>
 </li>
 </ul>
@@ -90,18 +97,39 @@
 <h2>Install</h2>
 <h3>Terminal</h3>
 <h4><a href="https://www.npmjs.com/package/@turbocolor/colorshelll">npm</a></h4>
-<code>
+<pre>
 $ npm i --save-dev @turbocolor/colorshelll
-</code>
+</pre>
 <h4><a href="https://yarn.pm/@turbocolor/colorshelll">yarn</a></h4>
-<code>
+<pre>
 $ yarn add --dev @turbocolor/colorshelll
-</code>
+</pre>
 <h4>pnpm</h4>
-<code>
+<pre>
 $ pnpm i --dev @turbocolor/colorshelll
-</code>
+</pre>
 <h4><a href="https://npmmirror.com/package/@turbocolor/colorshelll">cnpm</a></h4>
-<code>
+<pre>
 $ cnpm install @turbocolor/colorshelll
-</code>
+</pre>
+<h3>Source Code</h3>
+<h4>Git</h4>
+<pre>
+git clone https://github.com/turbocolor/colorshelll.git
+</pre>
+<h4>Github CLI</h4>
+<pre>
+gh repo clone turbocolor/colorshelll
+</pre>
+<h2>Usage</h2>
+<pre>
+npm run colorsh
+</pre>
+or
+<pre>
+npm run start
+</pre>
+or
+<pre>
+npm run colorshelll
+</pre>
