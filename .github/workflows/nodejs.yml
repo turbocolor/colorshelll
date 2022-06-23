@@ -22,5 +22,5 @@ jobs:
       - run: npm audit fix
       - run: npm ls
       - run: npm fund
-      - run: npm test
+      - run: npm run start
       
