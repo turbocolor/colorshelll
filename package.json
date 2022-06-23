@@ -6,7 +6,8 @@
   "scripts": {
     "colorshelll": "node colorshelll.js",
     "colorsh": "node colorshelll.js",
-    "start": "node colorshelll.js"
+    "start": "node colorshelll.js",
+    "amog": "node colorshelll.js && python amogus.py"
   },
   "bin": {
     "colorshelll-node": "./colorshelll.js"
