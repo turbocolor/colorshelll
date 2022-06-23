@@ -1,4 +1,4 @@
-<h1 align="center">colorshelll (Colorsh)</h1>
+<h1 align="center"><code>colorshelll (Colorsh)</code></h1>
 <div align="center">
   <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
 </div>
