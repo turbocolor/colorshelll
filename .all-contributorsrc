@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "DWhirlpool",
+      "name": "Daniel Lu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95860724?v=4",
+      "profile": "https://dwhirlpool.github.io/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "colorshelll",
+  "projectOwner": "turbocolor",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
