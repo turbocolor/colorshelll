@@ -1,6 +1,6 @@
 <h1 align="center"><code>colorshelll (Colorsh)</code></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align="center">
   <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
@@ -147,6 +147,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://dwhirlpool.github.io/"><img src="https://avatars.githubusercontent.com/u/95860724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Lu</b></sub></a><br /><a href="https://github.com/turbocolor/colorshelll/commits?author=DWhirlpool" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DWhirl-bot"><img src="https://avatars.githubusercontent.com/u/106715783?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DWhirl-bot</b></sub></a><br /><a href="#content-DWhirl-bot" title="Content">🖋</a></td>
   </tr>
 </table>
 
