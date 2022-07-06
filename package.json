@@ -2,15 +2,16 @@
   "name": "@turbocolor/colorshelll",
   "version": "0.0.6",
   "description": "Show Colors In The Node.js Repl",
-  "main": "colorshelll.js",
+  "type": "module",
+  "main": "colorshelll.cjs",
   "scripts": {
-    "colorshelll": "node colorshelll.js",
-    "colorsh": "node colorshelll.js",
-    "start": "node colorshelll.js",
-    "amog": "node colorshelll.js && python amogus.py"
+    "colorshelll": "node colorshelll.cjs",
+    "colorsh": "node colorshelll.cjs",
+    "start": "node colorshelll.cjs",
+    "amog": "node colorshelll.cjs && python amogus.py"
   },
   "bin": {
-    "colorshelll-node": "./colorshelll.js"
+    "colorshelll-node": "node colorshelll.cjs"
   },
   "repository": {
     "type": "git",
@@ -27,7 +28,8 @@
   "homepage": "https://github.com/turbocolor/colorshelll#readme",
   "dependencies": {
     "gradient-string": "^2.0.1",
-    "pkg": "^5.7.0"
+    "pkg": "^5.7.0",
+    "supports-color": "^9.2.2"
   },
   "devDependencies": {
     "@types/node": "^17.0.36",
