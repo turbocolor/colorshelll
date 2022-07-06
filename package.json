@@ -1,8 +1,7 @@
 {
   "name": "@turbocolor/colorshelll",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Show Colors In The Node.js Repl",
-  "type": "module",
   "main": "colorshelll.cjs",
   "scripts": {
     "colorshelll": "node colorshelll.cjs",
@@ -25,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/turbocolor/colorshelll/issues"
   },
-  "homepage": "https://github.com/turbocolor/colorshelll#readme",
+  "homepage": "https://colorshelll.pages.dev",
   "dependencies": {
     "gradient-string": "^2.0.1",
     "pkg": "^5.7.0",

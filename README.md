@@ -43,13 +43,13 @@
   <a href="https://packagephobia.com/result?p=%40turbocolor%2Fcolorshelll">
     <img src="https://packagephobia.com/favicon.ico" width="25" height="25" />
   </a>
-  <a href="https://bundlephobia.com/package/@turbocolor/colorshelll@0.0.6">
+  <a href="https://bundlephobia.com/package/@turbocolor/colorshelll@0.0.7">
     <img src="https://bundlephobia.com/favicon.ico" width="25" height="25" />
   </a>
   <a href="https://cdn.jsdelivr.net/npm/@turbocolor/colorshelll/">
     <img src="https://cdn.jsdelivr.net/favicon.ico" width="25" height="25" />
   </a>
-  <a href="https://unpkg.com/browse/@turbocolor/colorshelll@0.0.6/">
+  <a href="https://unpkg.com/browse/@turbocolor/colorshelll@0.0.7/">
     <img src="https://unpkg.com/favicon.ico" width="25" height="25" />
   </a>
   <a href="https://www.npmjs.com/package/@turbocolor/colorshelll">
@@ -64,7 +64,7 @@
   <a href="https://npm.anvaka.com/#/view/2d/%2540turbocolor%252Fcolorshelll">
     <img src="https://user-images.githubusercontent.com/95860724/173061475-cae9cadd-0e6c-4e63-9c64-aef64ed808a9.svg" width="25" height="25" />
   </a>
-  <a href="http://turbocolor.link/colorsh-gh">
+  <a href="https://github.com/turbocolor/colorshelll">
     <img src="https://user-images.githubusercontent.com/95860724/173062111-7a6b20c9-1217-4b1a-b6f8-32ed62acf23e.svg" width="25" height="25" />
   </a>
 </div>
