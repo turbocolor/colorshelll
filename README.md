@@ -147,6 +147,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://dwhirlpool.github.io/"><img src="https://avatars.githubusercontent.com/u/95860724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Lu</b></sub></a><br /><a href="https://github.com/turbocolor/colorshelll/commits?author=DWhirlpool" title="Code">💻</a></td>
+    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#content-all-contributors" title="Content">🖋</a> <a href="https://github.com/turbocolor/colorshelll/commits?author=all-contributors" title="Documentation">📖</a> <a href="https://github.com/turbocolor/colorshelll/commits?author=all-contributors" title="Code">💻</a></td>
   </tr>
 </table>
 
