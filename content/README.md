@@ -3,7 +3,7 @@
 <div align="center"><a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="All Contributors"></a></div>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align="center">
-  <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
+  <img alt="colorshelll-icon" src="../favicon.png" width="100" height="100" />
 </div>
 <div align="center">
   <a href="https://results.pre-commit.ci/latest/github/turbocolor/colorshelll/main">
