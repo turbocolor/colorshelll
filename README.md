@@ -90,7 +90,7 @@
 <li><a href="#source-code">Source Code</a></li>
 <ul>
 <li><a href="#git">Git</a></li>
-<li><a href="#github-cli">Github CLI</a></li> 
+<li><a href="#github-cli">GitHub CLI</a></li> 
 </ul>
 <li><a href="#usage">Usage</a></li>
 </ul>
@@ -120,7 +120,7 @@ $ cnpm install @turbocolor/colorshelll
 <pre>
 git clone https://github.com/turbocolor/colorshelll.git
 </pre>
-<h4>Github CLI</h4>
+<h4>GitHub CLI</h4>
 <pre>
 gh repo clone turbocolor/colorshelll
 </pre>
