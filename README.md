@@ -149,6 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://dwhirlpool.github.io/"><img src="https://avatars.githubusercontent.com/u/95860724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Lu</b></sub></a><br /><a href="https://github.com/turbocolor/colorshelll/commits?author=DWhirlpool" title="Code">💻</a></td>
     <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="#content-eltociear" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/apps/renovate"><img src="https://avatars.githubusercontent.com/in/2740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>renovate[bot]</b></sub></a><br /><a href="#data-renovate[bot]" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/apps/allcontributors"><img src="https://avatars.githubusercontent.com/in/23186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>allcontributors[bot]</b></sub></a><br /><a href="#content-allcontributors[bot]" title="Content">🖋</a></td>
   </tr>
 </table>
 
