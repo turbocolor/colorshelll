@@ -1,6 +1,6 @@
 <h1 align="center"><code>colorshelll (Colorsh)</code></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<div align="center"><a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square" alt="All Contributors"></a></div>
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align="center">
   <img alt="colorshelll-icon" src="./favicon.png" width="100" height="100" />
@@ -149,6 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://dwhirlpool.github.io/"><img src="https://avatars.githubusercontent.com/u/95860724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Lu</b></sub></a><br /><a href="https://github.com/turbocolor/colorshelll/commits?author=DWhirlpool" title="Code">💻</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#content-all-contributors" title="Content">🖋</a> <a href="https://github.com/turbocolor/colorshelll/commits?author=all-contributors" title="Documentation">📖</a> <a href="https://github.com/turbocolor/colorshelll/commits?author=all-contributors" title="Code">💻</a></td>
     <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="#content-eltociear" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/apps/renovate"><img src="https://avatars.githubusercontent.com/in/2740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>renovate[bot]</b></sub></a><br /><a href="#data-renovate[bot]" title="Data">🔣</a></td>
   </tr>
 </table>
 
