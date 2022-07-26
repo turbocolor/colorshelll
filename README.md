@@ -1,6 +1,6 @@
 <h1 align="center"><code>colorshelll (Colorsh)</code></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<div align="center"><a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square" alt="All Contributors"></a></div>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align="center">
   <img alt="colorshelll-icon" src="https://turbocolor.github.io/colorshelll/favicon.png" width="100" height="100" />
