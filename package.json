@@ -31,7 +31,7 @@
     "supports-color": "^9.2.2"
   },
   "devDependencies": {
-    "@types/node": "^17.0.36",
+    "@types/node": "^18.0.0",
     "jest": "^28.1.0"
   }
 }
