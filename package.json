@@ -26,7 +26,7 @@
   },
   "homepage": "https://colorshelll.pages.dev",
   "dependencies": {
-    "gradient-string": "^2.0.1",
+    "gradient-string": "^3.0.0",
     "pkg": "^5.7.0",
     "supports-color": "^9.2.2"
   },
